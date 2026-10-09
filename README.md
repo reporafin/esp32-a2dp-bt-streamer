@@ -126,8 +126,8 @@ Key runtime and compilation constants can be modified at the top of `main/main.c
 ### Build and Flash
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/naikisu/ESP32-A2DP-Streamer.git](https://github.com/naikisu/ESP32-A2DP-Streamer.git)
-   cd ESP32-A2DP-Streamer
+   git clone [https://github.com/reporafin/esp32-a2dp-bt-streamer.git](https://github.com/reporafin/esp32-a2dp-bt-Streamer.git)
+   cd esp32-a2dp-bt-streamer
    ```
 
 2. Set target to ESP32:
